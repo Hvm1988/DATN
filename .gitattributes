@@ -67,3 +67,4 @@
 "Library/Search/98957a664bd18c47a3e41b2a0189ef53.33328.b.index" filter=lfs diff=lfs merge=lfs -text
 "Library/SplashScreenCache/a1/a1643d33572457fa402d089ba470c058" filter=lfs diff=lfs merge=lfs -text
 "Temp/__Backupscenes/0.backup" filter=lfs diff=lfs merge=lfs -text
+"Assets/Plugins/Infinity Code/Ultimate Editor Enhancer/Documentation/Content/Documentation-Content.html" filter=lfs diff=lfs merge=lfs -text
