@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd21d76126e33173c56c63537f36d22a, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  name: Guest26363
+  armorSlot: EMPTY
+  gloverSlot: GLOVER-SOKU-WHITE|6
+  ringSlot: RING-SOKU-WHITE|2
+  amuletSlot: AMULET-SOKU-WHITE|3
+  pantsSlot: PANTS-SOKU-WHITE|5
+  shoeSlot: SHOE-SOKU-WHITE|4
+  ruby: 2147481618
+  gold: 2144423276
+  energy: 2147483617
+  skip: 100
+  level: 100
+  hp: 1019006
+  exp: 2147483647
+  atk: 125245
+  def: 1391
+  speed: 9
+  dailyGift: 0100000001000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  totalIAPPurchared: 0
+  rewardIAPStackGift: ffffffffffffffffffffffffffffffffffffffff
+  rewardGrownGift: 0100000001000000ffffffff
+  totalLevelPassed: 6
+  firstDate: 07/24/2025
+  totalKillMons: 116
+  bestCombo: 13
+  curVip: -1
+  clickedRate: 1
+  playCount: 4
